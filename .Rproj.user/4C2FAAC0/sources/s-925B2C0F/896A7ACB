@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580405005809.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3787168698",
+    "id" : "896A7ACB",
+    "lastKnownWriteTime" : 1580404451,
+    "last_content_update" : 1580404451,
+    "path" : "~/Documents/GitHub/data-science-participation-2/s03a_ggplot_p1-exercise.Rmd",
+    "project_path" : "s03a_ggplot_p1-exercise.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
