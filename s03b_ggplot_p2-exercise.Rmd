@@ -39,15 +39,10 @@ Fix the overlapping data points problem in the following plot by adding an `alph
 or `size` argument (attribution: ["R for data science"](https://r4ds.had.co.nz/data-visualisation.html)).
 
 ```{r, fig.width = 5, fig.height = 2}
-
-ggplot2(mpg, aes(cty, hwy)) + 
-  geom_point()
-
-
 ggplot(mpg, aes(cty, hwy)) + 
-  geom_point(mapping = aes(x = cty, y = hwy), position = "jitter")
+  geom_point()
 ```
-library("ggplot2")
+
 
 ## Exercise 2: Line for each Country
 

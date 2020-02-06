@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580998811837.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2656900770",
+    "id" : "67FF0787",
+    "lastKnownWriteTime" : 1580998884,
+    "last_content_update" : 1580998884,
+    "path" : "~/Documents/GitHub/data-science-participation-2/wrangling/s04_data-wrangling-exercise.Rmd.txt",
+    "project_path" : "wrangling/s04_data-wrangling-exercise.Rmd.txt",
+    "properties" : {
+        "cursorPosition" : "24,25",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

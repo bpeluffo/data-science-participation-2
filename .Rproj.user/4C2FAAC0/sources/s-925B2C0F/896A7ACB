@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3787168698",
+    "hash" : "0",
     "id" : "896A7ACB",
-    "lastKnownWriteTime" : 1580404451,
-    "last_content_update" : 1580404451,
+    "lastKnownWriteTime" : 1580405730,
+    "last_content_update" : 1580405730029,
     "path" : "~/Documents/GitHub/data-science-participation-2/s03a_ggplot_p1-exercise.Rmd",
     "project_path" : "s03a_ggplot_p1-exercise.Rmd",
     "properties" : {
+        "cursorPosition" : "45,17",
+        "scrollLine" : "37"
     },
     "read_only" : false,
     "read_only_alternatives" : [

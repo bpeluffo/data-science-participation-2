@@ -43,7 +43,7 @@ gapminder %>%
   mutate(continent = fct_infreq(continent)) %>% 
   ggplot(aes(continent)) +
   geom_bar() +
-  theme_bw()
+  theme_minimal()
 ```
 
 Fill in the seven grammar components for this plot.
